@@ -1,5 +1,9 @@
-sample 
+<<<<<<< HEAD
+sample 2
 
+Added by developer 2
+=======
+sample
 
 Added by developer 1
 >>>>>>> 1da831dc7225f7655984b06315ff7dec1df441da
